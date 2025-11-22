@@ -23,5 +23,6 @@
 module.exports = {
     token: '',
     guildId: '',
-    mongodbURI: ''
+    mongodbURI: 'mongodb+srv://tarunadhikary20:admayukhkary@discordbot.e0fxrmf.mongodb.net/?appName=DiscordBot'
 };
+
